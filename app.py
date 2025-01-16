@@ -105,7 +105,7 @@ st.markdown(
 
 # Input field for location
 st.markdown(
-    "<div style='color: #1E90FF; font-size: 18px;'>🌐 Where are you traveling?</div>",
+    "<div style='color: #ff0000; font-size: 18px;'>🌐 Where are you traveling?</div>",
     unsafe_allow_html=True,
 )
 location = st.text_input("", placeholder="Enter a city name...")
