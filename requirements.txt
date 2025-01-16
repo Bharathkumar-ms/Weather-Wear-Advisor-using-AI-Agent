@@ -1,0 +1,5 @@
+langchain
+requests
+langchain_community
+langchain-openai
+python-dotenv
