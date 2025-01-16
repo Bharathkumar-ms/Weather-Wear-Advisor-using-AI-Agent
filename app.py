@@ -136,7 +136,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: #888;">
-        <b>Powered by:</b> LangChain, ChatGroq, and OpenWeather API<br>
+        <b>Powered by:</b> LangChain, Llama, AI Agent and OpenWeather API<br>
         <i>💡 Making your travel decisions smarter!</i>
     </div>
     """,
